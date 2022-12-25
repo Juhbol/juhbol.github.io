@@ -1,0 +1,33 @@
+title: Juhbol Book
+# email:
+description: "This is Juhbol's notebook, where they record useful docs and interesting stories."
+baseurl: "/"
+url: "https://juhbol.github.io"
+github_username: Juhbol
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
+# Use post title as their file name in the directory
+permalink: /:title/
+
+# Markdown parser settings
+markdown    : kramdown
+highlighter : rouge
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
