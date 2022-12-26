@@ -1,11 +1,19 @@
 title: Juhbol Book
 # email:
-description: "This is Juhbol's notebook, where they record useful docs and interesting stories."
-baseurl: "/"
-url: "https://juhbol.github.io"
-github_username: Juhbol
+description: >
+  This is Juhbol's notebook, where they record useful docs and interesting stories.
 
-theme: minima
+url: "https://juhbol.github.io"
+
+minima:
+  skin: auto
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github, username: Juhbol, user_url: "https://github.com/Juhbol" }
+    - { platform: rss, username: "RSS feed", user_url: "feed.xml" }
+
+show_excerpts: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
