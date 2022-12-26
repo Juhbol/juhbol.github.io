@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "LaTex Math Cheatsheet"
-date:   2022-12-25 00:00:00 -0700
+date:   2021-12-10 00:00:00 -0000
+modified_date: 2022-12-25 00:00:00 -0000
+excerpt: 🗿🗿🗿 Become a real chad in LaTex math mode $-_-$
 ---
 
 <!-- Mathjax Support -->
