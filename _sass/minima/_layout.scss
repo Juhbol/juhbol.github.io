@@ -80,13 +80,14 @@
     padding: 5px 10px;
 
     // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 0;
-    }
-    margin-left: 20px;
+    // &:not(:last-child) {
+    //   margin-right: 10px;
+    // }
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
-  @media screen and (min-width: $on-medium) {
+  @media screen and (min-width: $on-small) {
     position: static;
     float: right;
     border: none;
