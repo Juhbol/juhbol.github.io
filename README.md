@@ -1,7 +1,6 @@
 # Juhbol Book
 
-This blog is based on [Github Pages](https://pages.github.com) with style based on [minima Jekyll theme](https://github.com/jekyll/minima). The source code can be found on Github: [Juhbol](https://github.com/Juhbol) /
-[juhbol.github.io](https://github.com/Juhbol/juhbol.github.io).
+This blog is based on [Github Pages](https://pages.github.com) with a style based on [minima Jekyll theme](https://github.com/jekyll/minima).
 
 Useful documentation about setting up Github Pages:
 

@@ -16,6 +16,4 @@ permalink: /about/
 
 This is Juhbol's notebook, where they record useful docs and interesting stories.
 
-This blog is based on [Github Pages](https://pages.github.com) with style based on minima Jekyll theme. The source code can be found at Github:
-[Juhbol](https://github.com/Juhbol) /
-[juhbol.github.io](https://github.com/Juhbol/juhbol.github.io)
+This blog is based on [Github Pages](https://pages.github.com) with a style based on [minima](https://github.com/jekyll/minima) Jekyll theme. The source code can be found on [Github](https://github.com/Juhbol/juhbol.github.io).
