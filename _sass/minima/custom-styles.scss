@@ -1,2 +1,26 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// The following is a css based Back-to-top botton implementation
+// To use it, add these to HTML
+// <div class="scroll-top"> <!--scrollbar at the end of main-->
+// <a class="scroll-top__link" href="#">Back to top</a> <!--href="#" navigates to the top of the page-->
+// </div>
+
+
+// main {position: relative;} /* to place scrollbar */
+// section {height: 300vh;} /* so we can scroll */
+// footer {height: 5rem;} /* a typical footer height */
+
+// .scroll-top {
+//     position: absolute; /* relative to its positioned <main> parent */
+//     top: 120vh; /* starts below the bottom of the screen */
+//     bottom: 3rem; /* stops scrolling before the end */
+//     right: 2rem; /* offset from right hand side */
+// }
+
+// .scroll-top__link {
+//     position: -webkit-sticky; /* for Safari */
+//     position: sticky; /* 'relative' until element reaches... */
+//     top: 90vh; /* 90% viewport height from the top, when it becomes 'fixed' - until its container toggles it back to 'relative' */
+// }
